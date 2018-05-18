@@ -1,14 +1,10 @@
 /**
  * 
  */
-package com.doj.ms.accounts;
+package com.aws.be;
 
 import java.util.List;
 
-/**
- * @author Dinesh.Rajput
- *
- */
 public interface AccountRepository {
 	
 	List<Account> getAllAccounts();

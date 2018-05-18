@@ -1,4 +1,4 @@
-package com.doj.web;
+package com.aws.web;
 
 import java.util.Arrays;
 import java.util.List;
@@ -6,10 +6,6 @@ import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.client.RestTemplate;
 
-/**
- * @author Dinesh.Rajput
- *
- */
 public class RemoteAccountRepository implements AccountRepository {
 	
 	@Autowired

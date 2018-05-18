@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.doj.ms.accounts;
+package com.aws.be;
 
 import java.util.List;
 import java.util.logging.Logger;
@@ -11,10 +11,6 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-/**
- * @author Dinesh.Rajput
- *
- */
 @RestController
 public class AccountController {
 

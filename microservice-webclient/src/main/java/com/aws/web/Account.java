@@ -1,14 +1,10 @@
 /**
  * 
  */
-package com.doj.web;
+package com.aws.web;
 
 import java.io.Serializable;
 
-/**
- * @author Dinesh.Rajput
- *
- */
 public class Account implements Serializable{
 	
 	/**

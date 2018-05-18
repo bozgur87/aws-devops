@@ -1,4 +1,4 @@
-package com.doj.ms.accounts;
+package com.aws.be;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
